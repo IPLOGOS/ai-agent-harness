@@ -1,0 +1,9 @@
+# Agent worktrees and local traces
+agent-runs/
+.claude/traces/
+.claude/settings.local.json
+.claude/tasks/*/current-run-id
+
+# Standard ignores
+node_modules/
+.env
